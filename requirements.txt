@@ -1,3 +1,7 @@
 numpy
 ipywidgets
 nbinteract
+matplotlib
+pandas
+scipy
+git+git://github.com/Alienor134/alienlab

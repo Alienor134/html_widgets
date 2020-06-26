@@ -1,8 +1,4 @@
 name: null
-
-channels:
-  - conda-forge
-  - defaults 
   
 dependencies:
   - gym-box2d=0.17

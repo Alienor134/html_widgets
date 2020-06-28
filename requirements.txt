@@ -4,5 +4,5 @@ nbinteract
 matplotlib
 pandas
 scipy
-pyvirtualdusplay
+pyvirtualdisplay
 git+git://github.com/Alienor134/alienlab
